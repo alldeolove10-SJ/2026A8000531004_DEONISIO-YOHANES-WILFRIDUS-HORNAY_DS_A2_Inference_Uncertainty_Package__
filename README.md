@@ -1,0 +1,2 @@
+# 2026A8000531004_DEONISIO-YOHANES-WILFRIDUS-HORNAY_DS_A2_Inference_Uncertainty_Package__
+Hello Professor, Here is my Assignment 2 (2026A8000531004_DEONISIO YOHANES WILFRIDUS HORNAY_DS_A2_Inference_Uncertainty_Package)
