@@ -1,2 +1,11 @@
-# 2026A8000531004_DEONISIO-YOHANES-WILFRIDUS-HORNAY_DS_A2_Inference_Uncertainty_Package__
-Hello Professor, Here is my Assignment 2 (2026A8000531004_DEONISIO YOHANES WILFRIDUS HORNAY_DS_A2_Inference_Uncertainty_Package)
+# DS-A2 Inference and Uncertainty
+
+Run the notebook from top to bottom.
+
+Install:
+pip install pandas numpy matplotlib jupyter
+
+Files:
+- DS_A2_Inference_Uncertainty.ipynb
+- data/ds_a2_sample_data.csv
+- AI_USE_LOG.md
